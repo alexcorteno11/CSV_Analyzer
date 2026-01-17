@@ -1,0 +1,6 @@
+Librerias Necesarias:
+- streamlit
+- pandas
+- matplotlib
+- seaborn
+- fpdf
